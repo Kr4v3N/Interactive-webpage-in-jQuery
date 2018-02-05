@@ -20,9 +20,10 @@ header {
 header h1 {
     font-size: 40px;
     text-align: center;
+    font-family: "Limelight", sans-serif;
     color: #fff;
     text-transform: uppercase;
-    text-shadow: 2px 23px 2px #000;
+    text-shadow: 2px 2px 2px #000;
 }
 
 /* MAIN-MENU */
@@ -73,30 +74,32 @@ header h1 {
     padding: 240px;
     background: #fff;
 }
-.discription h2
-{
+
+.discription h2 {
     padding-top: 20px;
     font-size: 30px;
+    font-family: "Limelight", sans-serif;
     text-align: center;
     color: #333;
     text-transform: uppercase;
 }
-.discription h3
-{
+
+.discription h3 {
     margin-top: 30px;
     padding: 10px;
     font-size: 26px;
+    font-family: "Lobster", sans-serif;
     background: #d70000;
     color: #fff;
     text-align: center;
     text-shadow: 1px 1px 1px #000;
-    border-radius: 5px;   
-}
-.discription p
-{
-    padding-top: 35px;
-    font-size: 22px;
-    color: black;
-    text-align: center;   
+    border-radius: 5px;
 }
 
+.discription p {
+    padding-top: 35px;
+    font-size: 22px;
+    font-family: "Lobster", sans-serif;
+    color: black;
+    text-align: center;
+}
